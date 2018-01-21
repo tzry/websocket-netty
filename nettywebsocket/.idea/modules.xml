@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nettywebsocket.iml" filepath="$PROJECT_DIR$/nettywebsocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testSend/testSend.iml" filepath="$PROJECT_DIR$/testSend/testSend.iml" />
+    </modules>
+  </component>
+</project>
