@@ -11,6 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="nettywebsocket" target="1.5" />
+      <module name="protoGenerator" target="1.5" />
       <module name="testSend" target="1.5" />
     </bytecodeTargetLevel>
   </component>

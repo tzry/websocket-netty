@@ -1,0 +1,13 @@
+package com.gerry.nettywebsocket;
+
+option java_package = "com.gerry.nettywebsocket.protobuf";
+option java_outer_classname = "ReviewProto";
+
+message Review {
+
+   required int32 id = 1;
+   required string name = 2;
+   required string head = 3;
+   required string content = 4;
+
+}
